@@ -1,4 +1,4 @@
-# Finding the percentage
+# Finding The Percentage
 
 if __name__ == '__main__':
     n = int(input())  
